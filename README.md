@@ -1,2 +1,3 @@
-# kalkylator-liamhad31
-Kalkylator – Liam Haddad
+# Kalkylator
+
+Liam Haddad
